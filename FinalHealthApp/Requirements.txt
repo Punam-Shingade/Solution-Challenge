@@ -1,0 +1,5 @@
+click
+Flask
+Pandas
+Python==3.11.5
+numpy
